@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michel Ange🐦‍⬛</h1>
-<h3 align="center">A Enthusiastic Junior software engineers</h3>
+<h3 align="center">A Enthusiastic Junior Software Developer</h3>
 
 # 💻 Tech Stack
 ## Programming Languages:
