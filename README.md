@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michel Ange🐦‍⬛</h1>
-<h3 align="center">A Enthusiastic Junior Software Developer</h3>
+<h3 align="center">Junior Software Developer @Andela, Rwanda | JavaScript, TypeScript, Python, Node.js, Django, Django Rest framework, React.js | Web development</h3>
 
 # 💻 Tech Stack
 ## Programming Languages:
